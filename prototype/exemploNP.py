@@ -1,3 +1,7 @@
+"""
+EXEMPLO DO 'main.py' SEM A IMPLEMENTAÇÃO DO PROTOTYPE!
+"""
+
 class ADS:
     def nome(self):
         return "Análise e Desenvolvimento de Sistemas"
